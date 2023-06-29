@@ -1,0 +1,39 @@
+      {/* 
+            <div className='text'>
+                Дизайн
+            </div>
+            <div className='home'>
+                <img className='photo' src='img/photo1.jpg' />
+            </div>
+
+            <div className='text'>
+                Промышленный дизайн
+            </div>
+
+            <div className='home'>
+                <img className='photo' src='img/photo2.jpg' />
+            </div>
+
+
+            <div className='text'>
+                Полиграфия
+            </div>
+
+            <div className='home'>
+                <img className='photo' src='img/photo3.jpg' />
+            </div>
+
+            <div className='text1'>
+                Знаем что нужно вашим клиентам <br/>
+                Все нужного качества и в нужных форматах.<br/>
+                Берем типографию на себя.
+            </div>
+
+            <div className='text2'>
+             Звоните {'+7 (915) 523-08-92'}
+            </div>
+
+
+            <div className='text2'>
+             Евгений
+            </div> */}
