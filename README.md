@@ -1,1 +1,1 @@
-# Photon_React
+Сайт реализован на React
